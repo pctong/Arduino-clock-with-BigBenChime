@@ -17,17 +17,17 @@ press any switch to stop alarm during display mode
 press increment switch to scroll Ahhmm Cyyyy-mmm-dd ddd during display mode
 chime work from 07:00 to 22:55, set chime=0 to turn off, 1 to turn on 4th quarter, 2 to turn on all quarters, 3 to turn on all quarters plus hour counting strick
 hardware list:
-1. Arduino nano, 
+1. Arduino nano https://item.taobao.com/item.htm?spm=a1z09.2.0.0.4c232e8dg181aU&id=561096743971&_u=nlf344u6f54
 
-2. AHT10 temp and humidity sensor, 
+2. AHT10 temp and humidity sensor, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.593e2e8dkvZHBR&id=602466803728&_u=nlf344ue07b
 
-3. 4-digit display w/TM1637, 
+3. 4-digit display w/TM1637, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.593e2e8dkvZHBR&id=576752165735&_u=nlf344ub8f2
 
 4. passive buzzer,
 
 5. 2x micro switch
 
-6. KA2209 amplifier
+6. KA2209 amplifier https://item.taobao.com/item.htm?spm=a1z09.2.0.0.593e2e8dkvZHBR&id=567005009031&_u=nlf344uffc7
 
 7. C9013 NPN transistor
 
